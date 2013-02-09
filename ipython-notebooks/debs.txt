@@ -1,0 +1,4 @@
+python-numpy
+build-essential
+python-dev
+python-matplotlib
